@@ -188,8 +188,7 @@ namespace ConsoleGraphics
                         pelletOn = false;
                         snakeLength += 1;
                         delay -= delay/16;
-                        new Thread(() => Console.Beep(37,1)).Start();
-                        new Thread(() => Console.Beep((280 + (snakeLength /2)),250)).Start();
+                        new Thread(() => Console.Beep(320,250)).Start();
                     }
 
                     for (int l = (xPoints.Length - 1); l > 1; l--)
@@ -210,16 +209,42 @@ namespace ConsoleGraphics
                 new Thread(() => Console.Beep(37, 1)).Start();
                 Console.BackgroundColor = ConsoleColor.Black;
                 Console.Clear();
+                /*
 
-                Console.Beep(329, 200);
-                Console.Beep(329, 200);
+                Console.Beep(2093, 260);
 
-                Console.Beep(293, 200);
-                Console.Beep(293, 200);
+                Console.Beep(1319, 260);
 
-                Console.BackgroundColor = ConsoleColor.Black;
-                Console.Clear();
-                new Thread(() => Console.Beep(246, 2000)).Start();
+                Console.Beep(1047, 260);
+
+                Console.Beep(1319, 260);
+
+                Console.Beep(1760, 260);
+
+                Console.Beep(1319, 260);
+
+                Console.Beep(932, 260);
+
+                Console.Beep(784, 260);
+               
+
+                Console.Beep(2093, 200);
+
+                Console.Beep(1319, 200);
+
+                Console.Beep(1047, 200);
+
+                Console.Beep(1319, 200);
+
+                Console.Beep(1760, 200);
+
+                Console.Beep(1319, 200);
+                */
+
+                Console.Beep(831, 250);
+                
+
+                Console.Beep(785, 250);
 
                 ConsoleColor[] colors = (ConsoleColor[])ConsoleColor.GetValues(typeof(ConsoleColor));
 

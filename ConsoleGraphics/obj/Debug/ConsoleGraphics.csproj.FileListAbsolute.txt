@@ -4,3 +4,9 @@ J:\ConsoleGraphics\ConsoleGraphics\bin\Debug\ConsoleGraphics.exe
 J:\ConsoleGraphics\ConsoleGraphics\bin\Debug\ConsoleGraphics.pdb
 J:\ConsoleGraphics\ConsoleGraphics\obj\Debug\ConsoleGraphics.exe
 J:\ConsoleGraphics\ConsoleGraphics\obj\Debug\ConsoleGraphics.pdb
+C:\Users\finle\Documents\GitHub\Snake\ConsoleGraphics\bin\Debug\ConsoleGraphics.exe.config
+C:\Users\finle\Documents\GitHub\Snake\ConsoleGraphics\obj\Debug\ConsoleGraphics.exe
+C:\Users\finle\Documents\GitHub\Snake\ConsoleGraphics\obj\Debug\ConsoleGraphics.pdb
+C:\Users\finle\Documents\GitHub\Snake\ConsoleGraphics\bin\Debug\ConsoleGraphics.exe
+C:\Users\finle\Documents\GitHub\Snake\ConsoleGraphics\bin\Debug\ConsoleGraphics.pdb
+C:\Users\finle\Documents\GitHub\Snake\ConsoleGraphics\obj\Debug\ConsoleGraphics.csprojResolveAssemblyReference.cache
